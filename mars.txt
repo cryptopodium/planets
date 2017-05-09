@@ -1,2 +1,4 @@
 Mars is the red planet and has two moons.
+There may be life under the surface.
+
 
